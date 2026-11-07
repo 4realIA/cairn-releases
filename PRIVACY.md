@@ -10,8 +10,10 @@ ISACA, ISC2 or IAPP.
 
 ## What Cairn collects
 
-Nothing. Cairn has no accounts, no sign-in, no ads, no analytics and no
-tracking.
+Cairn has no accounts, no sign-in, no ads, no analytics and no tracking. The
+only information that ever reaches the developer is a question flag you
+choose to submit (see "Flagging a question" below). It isn't linked to your
+identity and is used only to fix questions.
 
 ## What stays on your device
 
@@ -44,7 +46,7 @@ the form itself.
 
 ## Children
 
-Cairn collects no information from anyone, including children.
+Cairn collects no personal information from anyone, including children.
 
 ## Contact
 
