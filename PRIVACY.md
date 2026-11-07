@@ -1,21 +1,25 @@
 # Cairn privacy policy
 
-_Last updated: October 11, 2026_
+_Last updated: November 6, 2026_
 
-Cairn is a study app for the ISACA CISA and AAISM exams. It is made by an
-individual developer (publisher "dmd-dev") for fellow candidates. It is not
-affiliated with or endorsed by ISACA.
+Cairn is a study app for the ISACA CISA and AAISM, ISC2 CISSP and IAPP
+CIPP/US certification exams, for Mac, Windows, iPhone and iPad. It is made by
+an individual developer (publisher "dmd-dev"; on the App Store, Andrew Anton)
+for fellow candidates. It is not affiliated with, endorsed by or sponsored by
+ISACA, ISC2 or IAPP.
 
 ## What Cairn collects
 
 Nothing. Cairn has no accounts, no sign-in, no ads, no analytics and no
 tracking.
 
-## What stays on your computer
+## What stays on your device
 
 The questions you've downloaded, your study progress, daily limits and
-settings are saved in a file on your own computer so Cairn remembers where
-you left off. They are never sent anywhere. Uninstalling Cairn removes them.
+settings are saved on your own computer, iPhone or iPad so Cairn remembers
+where you left off. Cairn never sends them anywhere. Deleting or uninstalling
+Cairn removes them. On iPhone and iPad they are included in your device's own
+iCloud or computer backup, like any app's data, if you have that turned on.
 
 ## Network use
 
@@ -24,14 +28,14 @@ you left off. They are never sent anywhere. Uninstalling Cairn removes them.
   GitHub (github.com/4realIA/cairn-releases). The request contains no
   personal information. GitHub, like any website, sees the request's IP
   address; see GitHub's privacy statement.
-- **App updates:** the Microsoft Store version is updated by the Microsoft
-  Store. The version downloaded from GitHub checks the same public GitHub
-  location for a newer version of the app.
+- **App updates:** the App Store and Microsoft Store versions are updated by
+  those stores. The Mac version downloaded from GitHub checks the same public
+  GitHub location for a newer version of the app.
 
 ## Flagging a question
 
 If you choose **Flag this question**, Cairn opens a Google Form in your web
-browser, filled in with that question's ID and text, the reason you picked,
+browser (Safari on iPhone and iPad), filled in with that question's ID and text, the reason you picked,
 your comment, and the question set and app version. Nothing is sent unless
 you press **Submit** in the form. The form doesn't collect email addresses;
 it has an optional name field you can leave blank. Submitted flags are read
